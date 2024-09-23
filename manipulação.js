@@ -1,5 +1,5 @@
 let aluno = {
-    nome: "joão Silva",
+    nome: "Pedro Martins",
     idade: 21,
     curso: "Engenharia",
     notas: [7.5, 8.2, 9.0]
@@ -35,7 +35,7 @@ console.log("Estado do aluno", aluno.endereco.estado);
 
 let alunos = [
     {
-        nome: "João Silva",
+        nome: "Pedro Martins",
         idade: 22,
         curso: "Engenharia",
         notas: [7.5, 8.2, 9.0, 9.5],
@@ -46,7 +46,7 @@ let alunos = [
         }
     },
     {
-        nome: "Maria Souza",
+        nome: "Diego Souza",
         idade: 20,
         curso: "Matemática",
         notas: [8.9, 9.1, 8.8],
